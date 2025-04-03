@@ -21,10 +21,10 @@ public class notas {
 
 		
 		
-		System.out.print("ingrese nota 2: ");
+		System.out.print("ingrese nota 2 cambio test: ");
 		
 		un2= entrada.nextDouble();
-		System.out.print("ingrese nota 3: ");
+		System.out.print("ingrese nota 3 test de prueba cambio: ");
 		
 		un3= entrada.nextDouble();
 		
